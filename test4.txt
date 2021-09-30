@@ -1,0 +1,3 @@
+INSERT fas string
+INSERT a number
+ASSIGN a 123
